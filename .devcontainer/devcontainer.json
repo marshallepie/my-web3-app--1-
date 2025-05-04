@@ -1,7 +1,9 @@
+// filepath: /Users/marshallepie/MaiWill-Wallet/my-web3-app--1--1/.devcontainer/devcontainer.json
 {
   "name": "Web3 Dev Environment",
   "build": {
-    "dockerfile": "Dockerfile"
+    "dockerfile": "Dockerfile",
+    "context": ".." // Set the build context to the parent folder
   },
   "customizations": {
     "vscode": {
