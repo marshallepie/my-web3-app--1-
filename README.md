@@ -1,4 +1,7 @@
-# Web3 Dev Container Starter
+# maiwill-wallet
+A web3 wallet for the maiwill project
+
+## Web3 Dev Container Starter
 
 This is a fully isolated Web3 development environment designed for use with **GitHub Codespaces** or **VS Code Dev Containers**.
 
